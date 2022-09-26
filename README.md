@@ -1,0 +1,1 @@
+# bash-script-git-helpers
