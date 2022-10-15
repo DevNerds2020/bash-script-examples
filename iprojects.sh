@@ -1,6 +1,6 @@
 #! /bin/bash
 #from => DEVNERDS2020
-# This script is used to initialize a branch
+# >> This script is used to initialize a branch
 mainBranch=$1
 shouldStash=$2
 git pull
